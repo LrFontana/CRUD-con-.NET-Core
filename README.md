@@ -1,2 +1,4 @@
 # CRUD-con-.NET-Core
-esto en un crud con .net core usando C# y TypeScript
+
+
+Hola esto es un CRUD con .NET Core para una aplicacion, usando el lenjuage C# y TypeScript.
